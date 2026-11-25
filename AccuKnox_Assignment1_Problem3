@@ -1,1 +1,24 @@
+# Assignment 3 – Project Presentation
 
+## Project Title
+IoT-Based Smart Helmet for Accident Detection and Rider Safety
+
+## Project Description
+This project is an IoT-based safety system designed to improve rider safety through accident detection and monitoring.
+
+## Implemented Features
+- Accident detection using sensors
+- GPS location tracking
+- SMS alerts using GSM
+- Alcohol detection
+- Drowsiness detection
+
+## Project GitHub Repository
+https://github.com/anithamaheswari/smart-helmet-accident-detection
+
+## Project Challenges
+This project was challenging because I had to integrate multiple sensors and hardware modules to detect accidents, alcohol consumption and drowsiness.
+
+I worked on connecting GPS and GSM modules to track the rider's location and send SMS alerts during emergencies.
+
+The most challenging part was making all the components work together reliably and testing the complete system.
